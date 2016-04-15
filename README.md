@@ -2,7 +2,7 @@
 to push every day to GitHub.
 
 ```
-* * */1 * * ~/funnypush/push.sh
+0 0 * * * ~/funnypush/push.sh
 ```
 
 .
